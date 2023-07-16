@@ -1,0 +1,536 @@
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.exe
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.deps.json
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.pdb
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem_MarkupCompile.cache
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem_MarkupCompile.lref
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.g.resources
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\refint\StudentRegistrationSystem.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.pdb
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\ref\StudentRegistrationSystem.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\AdminPage.g.cs
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\AdminPage.baml
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\MainPage.g.cs
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\MainPage.baml
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.CopyComplete
+C:\Users\ASUS\Desktop\New folder\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\App.baml
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.exe
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.deps.json
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.runtimeconfig.json
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.pdb
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\AdminPage.g.cs
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\MainPage.g.cs
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem_MarkupCompile.cache
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem_MarkupCompile.lref
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\App.baml
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\AdminPage.baml
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\MainPage.baml
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.g.resources
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.CopyComplete
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\refint\StudentRegistrationSystem.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.pdb
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\ref\StudentRegistrationSystem.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\Registration.g.cs
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\Registration.baml
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\UserLogin.g.cs
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\UserLogin.baml
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\CreateUserPage.g.cs
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\CreateUserPage.baml
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\Modules.g.cs
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\Results.g.cs
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\Modules.baml
+C:\Users\ASUS\Desktop\GUI\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\Results.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.exe
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.deps.json
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.runtimeconfig.json
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.pdb
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem_MarkupCompile.cache
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem_MarkupCompile.lref
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\App.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.g.resources
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.AssemblyInfo.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.CopyComplete
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\refint\StudentRegistrationSystem.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.pdb
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.genruntimeconfig.cache
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\ref\StudentRegistrationSystem.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\AdminHomeWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\UserHomeWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\AdminHomeWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\UserHomeWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\CreateUserWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ModuleRegistrationWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\CreateUserWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ModuleRegistrationWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentInformationWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentInformationWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultSheetWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentResultWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultSheetWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentResultWindow.baml
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.exe
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.deps.json
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.runtimeconfig.json
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.pdb
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\AdminHomeWindow.g.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\CreateUserWindow.g.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ModuleRegistrationWindow.g.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultSheetWindow.g.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultWindow.g.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentInformationWindow.g.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentResultWindow.g.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\UserHomeWindow.g.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem_MarkupCompile.cache
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem_MarkupCompile.lref
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\App.baml
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\AdminHomeWindow.baml
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\CreateUserWindow.baml
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ModuleRegistrationWindow.baml
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultSheetWindow.baml
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultWindow.baml
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentInformationWindow.baml
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentResultWindow.baml
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\UserHomeWindow.baml
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.g.resources
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.CopyComplete
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\refint\StudentRegistrationSystem.dll
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.pdb
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\OUR\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\ref\StudentRegistrationSystem.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.exe
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.deps.json
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.runtimeconfig.json
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.pdb
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\AdminHomeWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\CreateUserWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ModuleRegistrationWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultSheetWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentInformationWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentResultWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\UserHomeWindow.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem_MarkupCompile.cache
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem_MarkupCompile.lref
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\App.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\AdminHomeWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\CreateUserWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ModuleRegistrationWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultSheetWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentInformationWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentResultWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\UserHomeWindow.baml
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.g.resources
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.AssemblyInfo.cs
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.CopyComplete
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\refint\StudentRegistrationSystem.dll
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.pdb
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.genruntimeconfig.cache
+C:\Users\DELL\Desktop\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\ref\StudentRegistrationSystem.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.exe
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.deps.json
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.runtimeconfig.json
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\StudentRegistrationSystem.pdb
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\AdminHomeWindow.g.cs
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\CreateUserWindow.g.cs
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ModuleRegistrationWindow.g.cs
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultSheetWindow.g.cs
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultWindow.g.cs
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentInformationWindow.g.cs
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentResultWindow.g.cs
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\UserHomeWindow.g.cs
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem_MarkupCompile.cache
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem_MarkupCompile.lref
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\App.baml
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\AdminHomeWindow.baml
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\CreateUserWindow.baml
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ModuleRegistrationWindow.baml
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultSheetWindow.baml
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\ResultWindow.baml
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentInformationWindow.baml
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\StudentResultWindow.baml
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\Views\UserHomeWindow.baml
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.g.resources
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\refint\StudentRegistrationSystem.dll
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.pdb
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\StudentRegistrationSystem.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Final\StudentRegistrationSystem 01_updated\StudentRegistrationSystem 01\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\net6.0-windows\ref\StudentRegistrationSystem.dll
